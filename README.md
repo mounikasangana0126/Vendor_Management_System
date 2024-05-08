@@ -47,7 +47,7 @@ performance metrics.
 
 Create user through the admin panel and provide the same username and password for post api below to get authorization token. Use that authorization token in headers to secure the api end points. 
 
-- **to get authorization token**: `POST /auth/` 
+- **Get authentication token by providing username and password.**: `POST /auth/` 
 
 ### Vendor Profile Management
 
